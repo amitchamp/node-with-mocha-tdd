@@ -1,0 +1,17 @@
+{
+  "name": "node-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
